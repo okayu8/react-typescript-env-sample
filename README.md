@@ -1,4 +1,4 @@
-# React + TypeScript 環境構築用
+# React + TypeScript （2020/08） 環境構築用
 
 ## 手順
 
