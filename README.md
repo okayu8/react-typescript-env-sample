@@ -16,7 +16,7 @@
 
 5. webpack.config.js を作成
 
-6. ts.config,json を作成
+6. ts.config.json を作成
 
 7. package.json に scripts を追記
 
