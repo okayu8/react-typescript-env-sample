@@ -7,9 +7,11 @@
 2. git init
 
 3. React の導入
+
    `yarn add react react-dom`
 
 4. TypeScript, webpack の導入
+
    `yarn add @types/react @types/react-dom ts-loader typescript webpack webpack-cli webpack-dev-server html-webpack-plugin`
 
 5. webpack.config.js を作成
