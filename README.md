@@ -10,7 +10,7 @@
 
    `yarn add react react-dom`
 
-4. TypeScript, webpack の導入
+4. TypeScript, webpack関連 の導入
 
    `yarn add @types/react @types/react-dom ts-loader typescript webpack webpack-cli webpack-dev-server html-webpack-plugin`
 
