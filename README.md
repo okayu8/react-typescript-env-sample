@@ -1,4 +1,4 @@
-# React + TypeScript 環境構築用
+# React + TypeScript （2020/08） 環境構築用
 
 ## 手順
 
@@ -10,7 +10,7 @@
 
    `yarn add react react-dom`
 
-4. TypeScript, webpack関連 の導入
+4. TypeScript, webpack 関連の導入
 
    `yarn add @types/react @types/react-dom ts-loader typescript webpack webpack-cli webpack-dev-server html-webpack-plugin`
 
